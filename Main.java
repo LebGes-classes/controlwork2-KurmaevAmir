@@ -1,4 +1,4 @@
-public class Main {
+public class Main { // Variant 3
     public static void main(String[] args) {
         int numberStudents = 10;
         Student[] queue = new Student[10];
