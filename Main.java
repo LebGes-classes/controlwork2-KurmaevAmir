@@ -1,6 +1,6 @@
 public class Main { // Variant 3
     public static void main(String[] args) {
-        int numberStudents = 5;
+        int numberStudents = 10;
         Student[] queue = new Student[numberStudents];
         for (int i = 0; i < numberStudents; i++) {
             if (i % 2 == 0) {
